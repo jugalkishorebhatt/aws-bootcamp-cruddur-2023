@@ -5,6 +5,9 @@ High Level conceptual design, detailing how the CICD pipeline will work.
 
 <img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/IMG-6921.jpg">
 
+## Logical Diagram:
+<img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/Crudder-Logical-Diagram.jpeg">
+
 ## Learning from the session:
 1. High-level overview of the project
 2. Balancing Scope,Time and Cost will determine the quality of the project.
