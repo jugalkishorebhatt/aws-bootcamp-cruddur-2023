@@ -17,3 +17,6 @@ High Level conceptual design, detailing how the CICD pipeline will work.
 6. Always important to ask dumb questions
 7. Think as an end-user 
 8. Always document everything to be on the same page with the stakehoder
+9. Chirag's video on Alerts and budgetting
+10. Ashish Video on Security - Root MFA, Organization Unit, Cloud Trail, IAM users/roles/policies/groups and SCP
+11. Andrew's Video on Logical Design
