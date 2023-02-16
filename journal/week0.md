@@ -8,7 +8,7 @@ High Level conceptual design, detailing how the CICD pipeline will work.
 ## Logical Diagram:
 https://lucid.app/lucidchart/d130bb3b-eced-4760-a955-ccf776f2cab3/edit?viewport_loc=-62%2C-326%2C2758%2C1584%2C0_0&invitationId=inv_abc2d50c-1c22-4aec-9e87-90b98fa8f763
 
-## Learning from the session:
+## Learnings from the session:
 1. High-level overview of the project
 2. Balancing Scope,Time and Cost will determine the quality of the project.
 3. RRAC for a good architecture
@@ -17,6 +17,9 @@ https://lucid.app/lucidchart/d130bb3b-eced-4760-a955-ccf776f2cab3/edit?viewport_
 6. Always important to ask dumb questions
 7. Think as an end-user 
 8. Always document everything to be on the same page with the stakehoder
+
+# Did a practical demo of each videos mentioned in the student portal
 9. Chirag's video on Alerts and budgetting
 10. Ashish Video on Security - Root MFA, Organization Unit, Cloud Trail, IAM users/roles/policies/groups and SCP
 11. Andrew's Video on Logical Design
+12. Andrew's video on AWS CLI,Credentials,Budgetting, installing aws cli
