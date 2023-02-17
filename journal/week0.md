@@ -17,6 +17,9 @@ High Level conceptual design, detailing how the CICD pipeline will work.
 ## EventBridge-AWS Health Notification:
 <img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/EventBridge-Healthdashboard.png">
 
+## Well-Architected-Tool:
+<img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/AWS-Well-Architected-Tool.png">
+
 ## Learnings from the session:
 1. High-level overview of the project
 2. Balancing Scope,Time and Cost will determine the quality of the project.
