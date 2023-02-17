@@ -6,7 +6,7 @@ High Level conceptual design, detailing how the CICD pipeline will work.
 <img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/IMG-6921.jpg">
 
 ## Logical Diagram:
-<img src="https://lucid.app/lucidchart/d130bb3b-eced-4760-a955-ccf776f2cab3/edit?viewport_loc=-62%2C-326%2C2758%2C1584%2C0_0&invitationId=inv_abc2d50c-1c22-4aec-9e87-90b98fa8f763">
+<img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/Crudder-Logical-Diagram.jpeg">
 
 ## AWS CLI Installation:
 <img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/AWS%20CLI%20installation.png">
