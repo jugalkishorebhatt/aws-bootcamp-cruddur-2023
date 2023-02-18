@@ -19,6 +19,9 @@ High Level conceptual design, detailing how the CICD pipeline will work.
 
 ## Homework Challenges
 
+## Enable MFA:
+Destroy your root account credentials, Set MFA, IAM role - Done
+
 ## Well-Architected-Tool:
 <img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/AWS-Well-Architected-Tool.png">
 
