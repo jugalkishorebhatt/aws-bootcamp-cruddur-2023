@@ -26,7 +26,7 @@ High Level conceptual design, detailing how the CICD pipeline will work.
 <img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/CICD%20-%20Crudder%20Logical%20Diagram.jpeg">
 
 ## AWS Service Limitation:
-https://support.console.aws.amazon.com/support/home#/case/?displayId=12028833021&language=en
+[AWS Case Support]([https://www.google.com](https://support.console.aws.amazon.com/support/home#/case/?displayId=12028833021&language=en))
 
 ### AWS Eventbridge:
 Eventbridge scheduler triggers a service. But, there is no option for a email notification on a task failure/retry
