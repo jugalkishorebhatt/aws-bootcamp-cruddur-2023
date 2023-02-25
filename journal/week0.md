@@ -17,8 +17,27 @@ High Level conceptual design, detailing how the CICD pipeline will work.
 ## EventBridge-AWS Health Notification:
 <img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/EventBridge-Healthdashboard.png">
 
+## Homework Challenges
+
+## Enable MFA:
+Destroy your root account credentials, Set MFA, IAM role - Done
+
 ## Well-Architected-Tool:
 <img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/AWS-Well-Architected-Tool.png">
+
+## CICD Logical Diagram:
+<img src="https://github.com/jugalkishorebhatt/aws-bootcamp-cruddur-2023/blob/main/images/CICD%20-%20Crudder%20Logical%20Diagram.jpeg">
+
+## AWS Service Limitation:
+https://support.console.aws.amazon.com/support/home#/case/?displayId=12028833021&language=en
+
+### AWS Eventbridge:
+Eventbridge scheduler triggers a service. But, there is no option for a email notification on a task failure/retry
+
+Documentation Link:
+https://docs.aws.amazon.com/scheduler/latest/UserGuide/what-is-scheduler.html
+
+## Open a support ticket and request a service limit
 
 ## Learnings from the session:
 1. High-level overview of the project
